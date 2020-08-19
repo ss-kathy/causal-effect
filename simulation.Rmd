@@ -236,3 +236,11 @@ tibble(
 
 ```
 
+
+```{r}
+# generate final data frame
+final = as.data.frame(cbind(x,y,u))
+
+```
+
+
