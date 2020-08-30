@@ -1,7 +1,0 @@
----
-title: "analysis"
-author: "ss5929"
-date: "8/19/2020"
-output: pdf_document
----
-

@@ -1,0 +1,20 @@
+---
+title: "analysis-gf"
+author: "ss5929"
+date: "8/23/2020"
+output: pdf_document
+---
+
+```{r}
+library(tidyverse)
+```
+
+```{r}
+
+
+
+
+
+```
+
+
